@@ -1,2 +1,0 @@
-# botdemo
-demo slack bot
